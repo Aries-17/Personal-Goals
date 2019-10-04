@@ -1,4 +1,4 @@
-#[Week Number] -Year-
+# [Week Number] -Year-
 
 ### The List
 - [ ] An Item Here
